@@ -1,0 +1,502 @@
+[
+  {
+    "problem_id": 1,
+    "complexity": "low",
+    "problem_text": "If A is true, then B is true. A is true. Is B true?"
+  },
+  {
+    "problem_id": 2,
+    "complexity": "low",
+    "problem_text": "What is 2 multiplied by 8?"
+  },
+  {
+    "problem_id": 3,
+    "complexity": "low",
+    "problem_text": "If John is taller than Mary, and Mary is taller than Susan, who is the tallest?"
+  },
+  {
+    "problem_id": 4,
+    "complexity": "low",
+    "problem_text": "A square has four equal sides. If one side is 5 units long, what is the perimeter?"
+  },
+  {
+    "problem_id": 5,
+    "complexity": "low",
+    "problem_text": "If it rains, the flowers get wet. The flowers are not wet. Did it rain?"
+  },
+  {
+    "problem_id": 6,
+    "complexity": "low",
+    "problem_text": "What is 10 divided by 2, plus 5?"
+  },
+  {
+    "problem_id": 7,
+    "complexity": "low",
+    "problem_text": "All birds have feathers. A robin is a bird. Does a robin have feathers?"
+  },
+  {
+    "problem_id": 8,
+    "complexity": "low",
+    "problem_text": "If X is greater than Y, and Y is greater than Z, is X greater than Z?"
+  },
+  {
+    "problem_id": 9,
+    "complexity": "low",
+    "problem_text": "What is the sum of 7 and 9?"
+  },
+  {
+    "problem_id": 10,
+    "complexity": "low",
+    "problem_text": "If the door is open, enter the room. The door is open. Can you enter the room?"
+  },
+  {
+    "problem_id": 11,
+    "complexity": "low",
+    "problem_text": "What is 5 multiplied by 4, minus 6?"
+  },
+  {
+    "problem_id": 12,
+    "complexity": "low",
+    "problem_text": "If the cat is on the mat, the dog is in the yard. The cat is on the mat. Where is the dog?"
+  },
+  {
+    "problem_id": 13,
+    "complexity": "low",
+    "problem_text": "If you study hard, you will pass the exam. You studied hard. Did you pass the exam?"
+  },
+  {
+    "problem_id": 14,
+    "complexity": "low",
+    "problem_text": "What is 20 divided by 4?"
+  },
+  {
+    "problem_id": 15,
+    "complexity": "low",
+    "problem_text": "If A is false, then B is false. A is false. Is B false?"
+  },
+  {
+    "problem_id": 16,
+    "complexity": "low",
+    "problem_text": "What is 3 added to the result of 6 multiplied by 2?"
+  },
+  {
+    "problem_id": 17,
+    "complexity": "low",
+    "problem_text": "If the car has fuel, it will run. The car has fuel. Will it run?"
+  },
+  {
+    "problem_id": 18,
+    "complexity": "low",
+    "problem_text": "If the sky is blue, it is daytime. The sky is blue. Is it daytime?"
+  },
+  {
+    "problem_id": 19,
+    "complexity": "low",
+    "problem_text": "What is 12 multiplied by 2, divided by 3?"
+  },
+  {
+    "problem_id": 20,
+    "complexity": "low",
+    "problem_text": "If the book is on the shelf, I can read it. The book is on the shelf. Can I read it?"
+  },
+  {
+    "problem_id": 21,
+    "complexity": "low",
+    "problem_text": "What is 8 multiplied by 7?"
+  },
+  {
+    "problem_id": 22,
+    "complexity": "low",
+    "problem_text": "If the switch is on, the light is on. The switch is on. Is the light on?"
+  },
+  {
+    "problem_id": 23,
+    "complexity": "low",
+    "problem_text": "If the apple is red, it is ripe. The apple is red. Is it ripe?"
+  },
+  {
+    "problem_id": 24,
+    "complexity": "low",
+    "problem_text": "What is 25 divided by 5, plus 10?"
+  },
+  {
+    "problem_id": 25,
+    "complexity": "low",
+    "problem_text": "If the ball is round, it can roll. The ball is round. Can it roll?"
+  },
+  {
+    "problem_id": 26,
+    "complexity": "low",
+    "problem_text": "What is 9 multiplied by 6?"
+  },
+  {
+    "problem_id": 27,
+    "complexity": "low",
+    "problem_text": "If the glass is full, it will spill. The glass is full. Will it spill?"
+  },
+  {
+    "problem_id": 28,
+    "complexity": "low",
+    "problem_text": "If the music is loud, I can't hear. The music is loud. Can I hear?"
+  },
+  {
+    "problem_id": 29,
+    "complexity": "low",
+    "problem_text": "What is 11 multiplied by 11?"
+  },
+  {
+    "problem_id": 30,
+    "complexity": "low",
+    "problem_text": "If the shirt is clean, I will wear it. The shirt is clean. Will I wear it?"
+  },
+  {
+    "problem_id": 31,
+    "complexity": "medium",
+    "problem_text": "John, Mary, and Peter are friends. John is taller than Mary. Peter is shorter than John but taller than Mary. Who is the shortest?"
+  },
+  {
+    "problem_id": 32,
+    "complexity": "medium",
+    "problem_text": "A sequence starts 2, 4, 8, 16... What is the next number in the sequence?"
+  },
+  {
+    "problem_id": 33,
+    "complexity": "medium",
+    "problem_text": "If all squares are rectangles, and some rectangles are parallelograms, are all squares parallelograms?"
+  },
+  {
+    "problem_id": 34,
+    "complexity": "medium",
+    "problem_text": "A fruit basket contains apples and oranges. There are twice as many apples as oranges. If there are 12 apples, how many oranges are there?"
+  },
+  {
+    "problem_id": 35,
+    "complexity": "medium",
+    "problem_text": "If P implies Q, and Q implies R, does P imply R?"
+  },
+  {
+    "problem_id": 36,
+    "complexity": "medium",
+    "problem_text": "What is the sum of the first 10 positive even numbers?"
+  },
+  {
+    "problem_id": 37,
+    "complexity": "medium",
+    "problem_text": "A train travels at 60 mph. How far will it travel in 3 hours?"
+  },
+  {
+    "problem_id": 38,
+    "complexity": "medium",
+    "problem_text": "If some students like math, and all students like science, do some who like science like math?"
+  },
+  {
+    "problem_id": 39,
+    "complexity": "medium",
+    "problem_text": "A recipe calls for 2 cups of flour for every 3 eggs. If you use 6 eggs, how much flour do you need?"
+  },
+  {
+    "problem_id": 40,
+    "complexity": "medium",
+    "problem_text": "If A is true or B is true, and B is false, is A true?"
+  },
+  {
+    "problem_id": 41,
+    "complexity": "medium",
+    "problem_text": "What is the average of 12, 18, and 24?"
+  },
+  {
+    "problem_id": 42,
+    "complexity": "medium",
+    "problem_text": "A car travels 120 miles in 2 hours. What is its average speed?"
+  },
+  {
+    "problem_id": 43,
+    "complexity": "medium",
+    "problem_text": "If all cats are mammals, and some mammals are pets, are some cats pets?"
+  },
+  {
+    "problem_id": 44,
+    "complexity": "medium",
+    "problem_text": "A box contains red, blue, and green balls. There are twice as many red balls as blue balls, and three times as many green balls as blue balls. If there are 5 blue balls, how many total balls are there?"
+  },
+  {
+    "problem_id": 45,
+    "complexity": "medium",
+    "problem_text": "If X implies Y, and not Y, does not X?"
+  },
+  {
+    "problem_id": 46,
+    "complexity": "medium",
+    "problem_text": "What is the product of the first 5 prime numbers?"
+  },
+  {
+    "problem_id": 47,
+    "complexity": "medium",
+    "problem_text": "A person walks 3 miles east and then 4 miles north. How far are they from their starting point (straight line distance)?"
+  },
+  {
+    "problem_id": 48,
+    "complexity": "medium",
+    "problem_text": "If some dogs bark, and all dogs have tails, do some animals with tails bark?"
+  },
+  {
+    "problem_id": 49,
+    "complexity": "medium",
+    "problem_text": "A store sells shirts for $20 each. If you buy 3 shirts, you get a 10% discount. What is the total cost of 3 shirts?"
+  },
+  {
+    "problem_id": 50,
+    "complexity": "medium",
+    "problem_text": "If A and B are true, or C is true, and A is false and C is false, is B true?"
+  },
+  {
+    "problem_id": 51,
+    "complexity": "medium",
+    "problem_text": "What is the sum of the angles in a triangle?"
+  },
+  {
+    "problem_id": 52,
+    "complexity": "medium",
+    "problem_text": "A cyclist travels 20 km in 1 hour and 30 minutes. What is their average speed in km/h?"
+  },
+  {
+    "problem_id": 53,
+    "complexity": "medium",
+    "problem_text": "If all roses are flowers, and some flowers are red, are some roses red?"
+  },
+  {
+    "problem_id": 54,
+    "complexity": "medium",
+    "problem_text": "A class has 30 students. 60% of the students passed a test. How many students passed the test?"
+  },
+  {
+    "problem_id": 55,
+    "complexity": "medium",
+    "problem_text": "If P or Q is true, and Q or R is true, and P is false, can we say R is true?"
+  },
+  {
+    "problem_id": 56,
+    "complexity": "medium",
+    "problem_text": "What is the area of a circle with a radius of 5 units? (Use $\\pi$ = 3.14)"
+  },
+  {
+    "problem_id": 57,
+    "complexity": "medium",
+    "problem_text": "A ladder is leaning against a wall. The base of the ladder is 6 feet from the wall, and the ladder is 10 feet long. How high up the wall does the ladder reach?"
+  },
+  {
+    "problem_id": 58,
+    "complexity": "medium",
+    "problem_text": "If some birds can fly, and all birds have beaks, do some animals with beaks fly?"
+  },
+  {
+    "problem_id": 59,
+    "complexity": "medium",
+    "problem_text": "A company's profit increased by 20% last year. If the profit last year was $100,000, what is the profit this year?"
+  },
+  {
+    "problem_id": 60,
+    "complexity": "medium",
+    "problem_text": "If A implies B, and B implies C, and not C, does not A?"
+  },
+  {
+    "problem_id": 61,
+    "complexity": "medium",
+    "problem_text": "What is the volume of a cube with sides of length 4 units?"
+  },
+  {
+    "problem_id": 62,
+    "complexity": "medium",
+    "problem_text": "A car travels at 70 mph for 2.5 hours. How far does it travel?"
+  },
+  {
+    "problem_id": 63,
+    "complexity": "medium",
+    "problem_text": "If all fish live in water, and some animals live in water, are some fish animals?"
+  },
+  {
+    "problem_id": 64,
+    "complexity": "medium",
+    "problem_text": "A group of friends is sharing a pizza. If there are 8 slices and 4 friends, how many slices does each friend get?"
+  },
+  {
+    "problem_id": 65,
+    "complexity": "medium",
+    "problem_text": "If X and Y, or Y and Z, and not Y, then what can be said about X and Z?"
+  },
+  {
+    "problem_id": 66,
+    "complexity": "medium",
+    "problem_text": "What is the surface area of a sphere with radius 2? (Use $\\pi$ = 3.14)"
+  },
+  {
+    "problem_id": 67,
+    "complexity": "medium",
+    "problem_text": "A ball is thrown upwards with an initial velocity. Its height (in meters) after t seconds is given by h(t) = 20t - 5t^2. At what time does the ball reach its maximum height?"
+  },
+  {
+    "problem_id": 68,
+    "complexity": "medium",
+    "problem_text": "If some trees are green, and all trees have roots, do some things with roots are green?"
+  },
+  {
+    "problem_id": 69,
+    "complexity": "medium",
+    "problem_text": "A store offers a 25% discount on a $50 item. What is the sale price?"
+  },
+  {
+    "problem_id": 70,
+    "complexity": "medium",
+    "problem_text": "If A is necessary for B, and B is sufficient for C, and not C, what can be said of A?"
+  },
+  {
+    "problem_id": 71,
+    "complexity": "high",
+    "problem_text": "A detective is investigating a murder. Three suspects, Alice, Bob, and Carol, are being questioned. Alice says, \"Bob did it.\" Bob says, \"Carol did it.\" Carol says, \"I didn't do it.\" If only one of them is telling the truth, who is the murderer?"
+  },
+  {
+    "problem_id": 72,
+    "complexity": "high",
+    "problem_text": "A logic puzzle: There are three boxes. One contains only apples, one contains only oranges, and one contains both apples and oranges. The boxes are labeled incorrectly. You can pick one fruit from one box (without looking inside) to determine the contents of all the boxes. Which box should you choose, and how can you solve the puzzle?"
+  },
+  {
+    "problem_id": 73,
+    "complexity": "high",
+    "problem_text": "If all A are B, and some B are C, and no C are D, what can be inferred about the relationship between A and D?"
+  },
+  {
+    "problem_id": 74,
+    "complexity": "high",
+    "problem_text": "A group of people is standing in a circle. Each person is either a knight (who always tells the truth) or a knave (who always lies). Each person says, \"The person to my right is a knave.\" How many knights are in the circle?"
+  },
+  {
+    "problem_id": 75,
+    "complexity": "high",
+    "problem_text": "Solve the following cryptarithmetic puzzle: SEND + MORE = MONEY, where each letter represents a unique digit."
+  },
+  {
+    "problem_id": 76,
+    "complexity": "high",
+    "problem_text": "If it rains, the parade is canceled. If the parade is canceled, the vendors lose money. The vendors did not lose money. Did it rain?"
+  },
+  {
+    "problem_id": 77,
+    "complexity": "high",
+    "problem_text": "A bag contains red, blue, and green marbles. The probability of drawing a red marble is 1/3, and the probability of drawing a blue marble is 1/4. What is the probability of drawing a green marble?"
+  },
+  {
+    "problem_id": 78,
+    "complexity": "high",
+    "problem_text": "If all P are Q, and some Q are R, and no R are S, what can be inferred about the relationship between P and S?"
+  },
+  {
+    "problem_id": 79,
+    "complexity": "high",
+    "problem_text": "A group of friends is playing a game. Each person must tell exactly one truth and one lie. John says, \"Mary is a knight\" and \"I am a knave.\" Mary says, \"I am a knight\" and \"John is a knave.\" Who is a knight and who is a knave?"
+  },
+  {
+    "problem_id": 80,
+    "complexity": "high",
+    "problem_text": "Solve the following logic puzzle: Four people are standing in a line. Each person is either a knight or a knave. A says, \"I am a knave.\" B says, \"A is a knight.\" C says, \"B is a knave.\" D says, \"C is a knight.\" Who are the knights and who are the knaves?"
+  },
+  {
+    "problem_id": 81,
+    "complexity": "high",
+    "problem_text": "If A implies B, B implies C, and C implies not A, does A hold?"
+  },
+  {
+    "problem_id": 82,
+    "complexity": "high",
+    "problem_text": "A biased coin has a probability of landing heads of 0.6. If the coin is flipped twice, what is the probability of getting one head and one tail?"
+  },
+  {
+    "problem_id": 83,
+    "complexity": "high",
+    "problem_text": "If all X are Y, some Y are Z, and no Z are W, what is the relationship between X and W?"
+  },
+  {
+    "problem_id": 84,
+    "complexity": "high",
+    "problem_text": "There are three chests. One contains gold, one contains silver, and one is empty. Each chest has a label: \"Gold,\" \"Silver,\" or \"Gold and Silver.\" All labels are incorrect. You can open only one chest. Which chest should you open to determine the contents of all chests?"
+  },
+  {
+    "problem_id": 85,
+    "complexity": "high",
+    "problem_text": "A logic puzzle: A man is looking at a portrait. Someone asks him who it is. He replies, \"Brothers and sisters, I have none. But that man's father is my father's son.\" Who is in the portrait?"
+  },
+  {
+    "problem_id": 86,
+    "complexity": "high",
+    "problem_text": "If A or B, and not (A and B), and B or C, then what can be said about A and C?"
+  },
+  {
+    "problem_id": 87,
+    "complexity": "high",
+    "problem_text": "A group of people are standing in a circle, and each person either always lies or always tells the truth.  Each person says \"The person to my left always lies.\" What can you conclude about the number of people in the circle?"
+  },
+  {
+    "problem_id": 88,
+    "complexity": "high",
+    "problem_text": "If All A are B, No B are C, Some C are D, derive any valid conclusions"
+  },
+  {
+    "problem_id": 89,
+    "complexity": "high",
+    "problem_text": "In a room, every person shakes hands with every other person exactly once. If there were 10 people in the room, how many handshakes occurred?"
+  },
+  {
+    "problem_id": 90,
+    "complexity": "high",
+    "problem_text": "If P -> Q, Q -> (R v S), ~R, then what can be said about P and S?"
+  },
+  {
+    "problem_id": 91,
+    "complexity": "high",
+    "problem_text": "A store offers three discounts: 10%, 20%, and 30%. What is the final price of an item originally priced at $100 if all three discounts are applied consecutively?"
+  },
+  {
+    "problem_id": 92,
+    "complexity": "high",
+    "problem_text": "If Some A are B, No B are C, All C are D, can Some A be D?"
+  },
+  {
+    "problem_id": 93,
+    "complexity": "high",
+    "problem_text": "A circular island has a circumference of 100km. Two runners start at the same point and run in opposite directions. One runs at 10km/h and the other at 15km/h. Where and when will they meet?"
+  },
+  {
+    "problem_id": 94,
+    "complexity": "high",
+    "problem_text": "If All X are Y, Some Y are Z, No W are Z, can Some X be W?"
+  },
+  {
+    "problem_id": 95,
+    "complexity": "high",
+    "problem_text": "A father tells his two sons, \"I have placed a treasure at a certain spot. To find it, start at the old oak tree, walk 10 paces north, then 5 paces east, then 7 paces south, and finally 3 paces west.\" Where is the treasure located relative to the oak tree?"
+  },
+  {
+    "problem_id": 96,
+    "complexity": "high",
+    "problem_text": "If A -> (B v C), ~B, then what can be said about A and C?"
+  },
+  {
+    "problem_id": 97,
+    "complexity": "high",
+    "problem_text": "There are four suspects in a crime. The police know that only one is guilty.  Suspect 1 says: \"I am innocent.\"  Suspect 2 says: \"Suspect 1 is guilty.\"  Suspect 3 says: \"Suspect 2 is innocent.\"  Suspect 4 says: \"Suspect 3 is guilty.\"  If only one of them is telling the truth, who is guilty?"
+  },
+  {
+    "problem_id": 98,
+    "complexity": "high",
+    "problem_text": "If Some A are B, No B are C, All C are D, derive valid conclusions about the relationship between A and D."
+  },
+  {
+    "problem_id": 99,
+    "complexity": "high",
+    "problem_text": "You have two hourglasses, one that measures 4 minutes and one that measures 7 minutes. How can you use them to measure exactly 9 minutes?"
+  },
+  {
+    "problem_id": 100,
+    "complexity": "high",
+    "problem_text": "If A -> (B ^ C), B -> D, C -> E, ~D, ~E, then what is the truth value of A?"
+  }
+]
