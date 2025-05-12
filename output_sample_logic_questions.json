@@ -1,0 +1,1902 @@
+[
+  {
+    "problem_id": 1,
+    "problem_text": "If A is true, then B is true. A is true. Is B true?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A is true, then B is true. A is true. Is B true?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, B is true."
+    }
+  },
+  {
+    "problem_id": 2,
+    "problem_text": "What is 2 multiplied by 8?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 2 multiplied by 8?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "2 multiplied by 8 is 16."
+    }
+  },
+  {
+    "problem_id": 3,
+    "problem_text": "If John is taller than Mary, and Mary is taller than Susan, who is the tallest?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.1,
+      "relational_reasoning": 0.9,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If John is taller than Mary, and Mary is taller than Susan, who is the tallest?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "John is the tallest."
+    }
+  },
+  {
+    "problem_id": 4,
+    "problem_text": "A square has four equal sides. If one side is 5 units long, what is the perimeter?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A square has four equal sides. If one side is 5 units long, what is the perimeter?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "The perimeter is 20 units."
+    }
+  },
+  {
+    "problem_id": 5,
+    "problem_text": "If it rains, the flowers get wet. The flowers are not wet. Did it rain?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If it rains, the flowers get wet. The flowers are not wet. Did it rain?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "No, it did not rain."
+    }
+  },
+  {
+    "problem_id": 6,
+    "problem_text": "What is 10 divided by 2, plus 5?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 10 divided by 2, plus 5?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "10 divided by 2, plus 5 is 10."
+    }
+  },
+  {
+    "problem_id": 7,
+    "problem_text": "All birds have feathers. A robin is a bird. Does a robin have feathers?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "All birds have feathers. A robin is a bird. Does a robin have feathers?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, a robin has feathers."
+    }
+  },
+  {
+    "problem_id": 8,
+    "problem_text": "If X is greater than Y, and Y is greater than Z, is X greater than Z?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.1,
+      "relational_reasoning": 0.9,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If X is greater than Y, and Y is greater than Z, is X greater than Z?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, X is greater than Z."
+    }
+  },
+  {
+    "problem_id": 9,
+    "problem_text": "What is the sum of 7 and 9?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the sum of 7 and 9?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "The sum of 7 and 9 is 16."
+    }
+  },
+  {
+    "problem_id": 10,
+    "problem_text": "If the door is open, enter the room. The door is open. Can you enter the room?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the door is open, enter the room. The door is open. Can you enter the room?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, you can enter the room."
+    }
+  },
+  {
+    "problem_id": 11,
+    "problem_text": "What is 5 multiplied by 4, minus 6?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 5 multiplied by 4, minus 6?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "5 multiplied by 4, minus 6 is 14."
+    }
+  },
+  {
+    "problem_id": 12,
+    "problem_text": "If the cat is on the mat, the dog is in the yard. The cat is on the mat. Where is the dog?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the cat is on the mat, the dog is in the yard. The cat is on the mat. Where is the dog?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "The dog is in the yard."
+    }
+  },
+  {
+    "problem_id": 13,
+    "problem_text": "If you study hard, you will pass the exam. You studied hard. Did you pass the exam?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If you study hard, you will pass the exam. You studied hard. Did you pass the exam?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, you passed the exam."
+    }
+  },
+  {
+    "problem_id": 14,
+    "problem_text": "What is 20 divided by 4?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 20 divided by 4?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "20 divided by 4 is 5."
+    }
+  },
+  {
+    "problem_id": 15,
+    "problem_text": "If A is false, then B is false. A is false. Is B false?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A is false, then B is false. A is false. Is B false?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, B is false."
+    }
+  },
+  {
+    "problem_id": 16,
+    "problem_text": "What is 3 added to the result of 6 multiplied by 2?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 3 added to the result of 6 multiplied by 2?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "3 added to the result of 6 multiplied by 2 is 15."
+    }
+  },
+  {
+    "problem_id": 17,
+    "problem_text": "If the car has fuel, it will run. The car has fuel. Will it run?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the car has fuel, it will run. The car has fuel. Will it run?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, it will run."
+    }
+  },
+  {
+    "problem_id": 18,
+    "problem_text": "If the sky is blue, it is daytime. The sky is blue. Is it daytime?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the sky is blue, it is daytime. The sky is blue. Is it daytime?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, it is daytime."
+    }
+  },
+  {
+    "problem_id": 19,
+    "problem_text": "What is 12 multiplied by 2, divided by 3?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 12 multiplied by 2, divided by 3?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "12 multiplied by 2, divided by 3 is 8."
+    }
+  },
+  {
+    "problem_id": 20,
+    "problem_text": "If the book is on the shelf, I can read it. The book is on the shelf. Can I read it?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the book is on the shelf, I can read it. The book is on the shelf. Can I read it?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, you can read it."
+    }
+  },
+   {
+    "problem_id": 21,
+    "problem_text": "What is 8 multiplied by 7?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 8 multiplied by 7?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "8 multiplied by 7 is 56."
+    }
+  },
+  {
+    "problem_id": 22,
+    "problem_text": "If the switch is on, the light is on. The switch is on. Is the light on?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the switch is on, the light is on. The switch is on. Is the light on?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, the light is on."
+    }
+  },
+  {
+    "problem_id": 23,
+    "problem_text": "If the apple is red, it is ripe. The apple is red. Is it ripe?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the apple is red, it is ripe. The apple is red. Is it ripe?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, it is ripe."
+    }
+  },
+  {
+    "problem_id": 24,
+    "problem_text": "What is 25 divided by 5, plus 10?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 25 divided by 5, plus 10?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "25 divided by 5, plus 10 is 15."
+    }
+  },
+  {
+    "problem_id": 25,
+    "problem_text": "If the ball is round, it can roll. The ball is round. Can it roll?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the ball is round, it can roll. The ball is round. Can it roll?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, it can roll."
+    }
+  },
+  {
+    "problem_id": 26,
+    "problem_text": "What is 9 multiplied by 6?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 9 multiplied by 6?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "9 multiplied by 6 is 54."
+    }
+  },
+  {
+    "problem_id": 27,
+    "problem_text": "If the glass is full, it will spill. The glass is full. Will it spill?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the glass is full, it will spill. The glass is full. Will it spill?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, it will spill."
+    }
+  },
+  {
+    "problem_id": 28,
+    "problem_text": "If the music is loud, I can't hear. The music is loud. Can I hear?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the music is loud, I can't hear. The music is loud. Can I hear?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "No, you can't hear."
+    }
+  },
+  {
+    "problem_id": 29,
+    "problem_text": "What is 11 multiplied by 11?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 1.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is 11 multiplied by 11?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "11 multiplied by 11 is 121."
+    }
+  },
+  {
+    "problem_id": 30,
+    "problem_text": "If the shirt is clean, I will wear it. The shirt is clean. Will I wear it?",
+    "complexity": "low",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the shirt is clean, I will wear it. The shirt is clean. Will I wear it?",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved with standard Chain of Thought due to low complexity.",
+      "solution": "Yes, you will wear it."
+    }
+  },
+  {
+    "problem_id": 31,
+    "problem_text": "John, Mary, and Peter are friends. John is taller than Mary. Peter is shorter than John but taller than Mary. Who is the shortest?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.3,
+      "relational_reasoning": 0.9,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "John, Mary, and Peter are friends. John is taller than Mary. Peter is shorter than John but taller than Mary. Who is the shortest?\n\nLogical Hints:  John > Mary, Peter < John, Peter > Mary",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the relational problem.",
+      "solution": "Mary is the shortest."
+    }
+  },
+  {
+    "problem_id": 32,
+    "problem_text": "A sequence starts 2, 4, 8, 16... What is the next number in the sequence?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.1,
+      "relational_reasoning": 0.2,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.9
+    },
+    "augmented_context": "A sequence starts 2, 4, 8, 16... What is the next number in the sequence?\n\nLogical Hints:  Each number is double the previous number.",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the sequence problem.",
+      "solution": "The next number is 32."
+    }
+  },
+  {
+    "problem_id": 33,
+    "problem_text": "If all squares are rectangles, and some rectangles are parallelograms, are all squares parallelograms?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If all squares are rectangles, and some rectangles are parallelograms, are all squares parallelograms?\n\nLogical Hints:  All Squares -> Rectangles, Some Rectangles -> Parallelograms",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "No, not all squares are necessarily parallelograms."
+    }
+  },
+  {
+    "problem_id": 34,
+    "problem_text": "A fruit basket contains apples and oranges. There are twice as many apples as oranges. If there are 12 apples, how many oranges are there?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A fruit basket contains apples and oranges. There are twice as many apples as oranges. If there are 12 apples, how many oranges are there?\n\nLogical Hints: Apples = 2 * Oranges, Apples = 12",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the word problem involving ratios.",
+      "solution": "There are 6 oranges."
+    }
+  },
+  {
+    "problem_id": 35,
+    "problem_text": "If P implies Q, and Q implies R, does P imply R?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If P implies Q, and Q implies R, does P imply R?\n\nLogical Hints: P -> Q, Q -> R",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the deductive reasoning problem.",
+      "solution": "Yes, P implies R (Transitive Property)."
+    }
+  },
+  {
+    "problem_id": 36,
+    "problem_text": "What is the sum of the first 10 positive even numbers?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.2,
+      "numerical_reasoning": 0.9,
+      "temporal_reasoning": 0.9
+    },
+    "augmented_context": "What is the sum of the first 10 positive even numbers?\n\nLogical Hints:  Even numbers are 2n.",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the numerical series problem.",
+      "solution": "The sum is 110."
+    }
+  },
+  {
+    "problem_id": 37,
+    "problem_text": "A train travels at 60 mph. How far will it travel in 3 hours?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "A train travels at 60 mph. How far will it travel in 3 hours?\n\nLogical Hints: Distance = Speed * Time",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the distance-speed-time problem.",
+      "solution": "The train will travel 180 miles."
+    }
+  },
+  {
+    "problem_id": 38,
+    "problem_text": "If some students like math, and all students like science, do some who like science like math?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If some students like math, and all students like science, do some who like science like math?\n\nLogical Hints: Some Math -> Students, All Students -> Science",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical logic problem.",
+      "solution": "Yes, some who like science like math."
+    }
+  },
+  {
+    "problem_id": 39,
+    "problem_text": "A recipe calls for 2 cups of flour for every 3 eggs. If you use 6 eggs, how much flour do you need?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A recipe calls for 2 cups of flour for every 3 eggs. If you use 6 eggs, how much flour do you need?\n\nLogical Hints: Flour/Eggs = 2/3",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the ratio and proportion problem.",
+      "solution": "You need 4 cups of flour."
+    }
+  },
+  {
+    "problem_id": 40,
+    "problem_text": "If A is true or B is true, and B is false, is A true?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A is true or B is true, and B is false, is A true?\n\nLogical Hints: A v B, ~B",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the propositional logic problem.",
+      "solution": "Yes, A is true."
+    }
+  },
+  {
+    "problem_id": 41,
+    "problem_text": "What is the average of 12, 18, and 24?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 0.9,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the average of 12, 18, and 24?\n\nLogical Hints: Average = Sum / Count",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the average problem.",
+      "solution": "The average is 18."
+    }
+  },
+  {
+    "problem_id": 42,
+    "problem_text": "A car travels 120 miles in 2 hours. What is its average speed?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "A car travels 120 miles in 2 hours. What is its average speed?\n\nLogical Hints: Speed = Distance / Time",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the speed problem.",
+      "solution": "The average speed is 60 mph."
+    }
+  },
+  {
+    "problem_id": 43,
+    "problem_text": "If all cats are mammals, and some mammals are pets, are some cats pets?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If all cats are mammals, and some mammals are pets, are some cats pets?\n\nLogical Hints: All Cats -> Mammals, Some Mammals -> Pets",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism.",
+      "solution": "No, not necessarily."
+    }
+  },
+  {
+    "problem_id": 44,
+    "problem_text": "A box contains red, blue, and green balls. There are twice as many red balls as blue balls, and three times as many green balls as blue balls. If there are 5 blue balls, how many total balls are there?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A box contains red, blue, and green balls. There are twice as many red balls as blue balls, and three times as many green balls as blue balls. If there are 5 blue balls, how many total balls are there?\n\nLogical Hints: Red = 2 * Blue, Green = 3 * Blue, Blue = 5",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the word problem with multiple relationships.",
+      "solution": "There are 30 balls in total."
+    }
+  },
+  {
+    "problem_id": 45,
+    "problem_text": "If X implies Y, and not Y, does not X?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If X implies Y, and not Y, does not X?\n\nLogical Hints: X -> Y, ~Y",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the Modus Tollens problem.",
+      "solution": "Yes, not X."
+    }
+  },
+  {
+    "problem_id": 46,
+    "problem_text": "What is the product of the first 5 prime numbers?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.0,
+      "numerical_reasoning": 0.9,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the product of the first 5 prime numbers?\n\nLogical Hints: Prime numbers: 2, 3, 5, 7, 11...",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the prime number problem.",
+      "solution": "The product is 2310."
+    }
+  },
+  {
+    "problem_id": 47,
+    "problem_text": "A person walks 3 miles east and then 4 miles north. How far are they from their starting point (straight line distance)?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "A person walks 3 miles east and then 4 miles north. How far are they from their starting point (straight line distance)?\n\nLogical Hints: Use Pythagorean theorem.",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the distance problem using the Pythagorean theorem.",
+      "solution": "They are 5 miles from the starting point."
+    }
+  },
+  {
+    "problem_id": 48,
+    "problem_text": "If some dogs bark, and all dogs have tails, do some animals with tails bark?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If some dogs bark, and all dogs have tails, do some animals with tails bark?\n\nLogical Hints: Some Dogs -> Bark, All Dogs -> Tails",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical logic problem.",
+      "solution": "Yes, some animals with tails bark."
+    }
+  },
+  {
+    "problem_id": 49,
+    "problem_text": "A store sells shirts for $20 each. If you buy 3 shirts, you get a 10% discount. What is the total cost of 3 shirts?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A store sells shirts for $20 each. If you buy 3 shirts, you get a 10% discount. What is the total cost of 3 shirts?\n\nLogical Hints:  Discounted Price = Original Price * (1 - Discount Rate)",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the discount problem.",
+      "solution": "The total cost is $54."
+    }
+  },
+  {
+    "problem_id": 50,
+    "problem_text": "If A and B are true, or C is true, and A is false and C is false, is B true?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A and B are true, or C is true, and A is false and C is false, is B true?\n\nLogical Hints: (A & B) v C, ~A, ~C",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the propositional logic problem.",
+      "solution": "Yes, B is true."
+    }
+  },
+  {
+    "problem_id": 51,
+    "problem_text": "What is the area of a rectangle with a length of 8 cm and a width of 5 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the area of a rectangle with a length of 8 cm and a width of 5 cm?\n\nLogical Hints: Area of rectangle = length * width",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the area of a rectangle problem.",
+      "solution": "The area is 40 cm²."
+    }
+  },
+  {
+    "problem_id": 52,
+    "problem_text": "If it is sunny, I will go to the park. If I go to the park, I will buy ice cream. It is sunny. Will I buy ice cream?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If it is sunny, I will go to the park. If I go to the park, I will buy ice cream. It is sunny. Will I buy ice cream?\n\nLogical Hints: Sunny -> Park, Park -> Ice Cream",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the hypothetical syllogism problem.",
+      "solution": "Yes, you will buy ice cream."
+    }
+  },
+  {
+    "problem_id": 53,
+    "problem_text": "All dogs are mammals. All mammals are animals. Are all dogs animals?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "All dogs are mammals. All mammals are animals. Are all dogs animals?\n\nLogical Hints: All Dogs -> Mammals, All Mammals -> Animals",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "Yes, all dogs are animals."
+    }
+  },
+  {
+    "problem_id": 54,
+    "problem_text": "A class has 30 students. 60% of the students passed the test. How many students passed the test?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A class has 30 students. 60% of the students passed the test. How many students passed the test?\n\nLogical Hints: Passed Students = Total Students * Percentage",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the percentage problem.",
+      "solution": "18 students passed the test."
+    }
+  },
+  {
+    "problem_id": 55,
+    "problem_text": "If A or B is true, and A is false, then B is?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A or B is true, and A is false, then B is?\n\nLogical Hints: A v B, ~A",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the disjunctive syllogism problem.",
+      "solution": "B is true."
+    }
+  },
+  {
+    "problem_id": 56,
+    "problem_text": "What is the sum of the angles in a triangle?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the sum of the angles in a triangle?\n\nLogical Hints: Sum of angles in a triangle = 180 degrees",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the geometry problem.",
+      "solution": "The sum of the angles is 180 degrees."
+    }
+  },
+  {
+    "problem_id": 57,
+    "problem_text": "A cyclist travels 20 km in 1 hour and 30 minutes. What is their average speed?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "A cyclist travels 20 km in 1 hour and 30 minutes. What is their average speed?\n\nLogical Hints:  Speed = Distance / Time",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the speed problem with time conversion.",
+      "solution": "The average speed is 4/3 km per minute."
+    }
+  },
+  {
+    "problem_id": 58,
+    "problem_text": "If all roses are flowers, and some flowers are red, are some roses red?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If all roses are flowers, and some flowers are red, are some roses red?\n\nLogical Hints: All Roses -> Flowers, Some Flowers -> Red",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "No, not necessarily."
+    }
+  },
+  {
+    "problem_id": 59,
+    "problem_text": "A company's revenue increased by 15% this year. If the revenue was $100,000 last year, what is the revenue this year?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A company's revenue increased by 15% this year. If the revenue was $100,000 last year, what is the revenue this year?\n\nLogical Hints: New Revenue = Old Revenue * (1 + Increase Rate)",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the percentage increase problem.",
+      "solution": "The revenue this year is $115,000."
+    }
+  },
+  {
+    "problem_id": 60,
+    "problem_text": "If it is not raining, then I will go for a walk. I did not go for a walk. Was it raining?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If it is not raining, then I will go for a walk. I did not go for a walk. Was it raining?\n\nLogical Hints: ~R -> W, ~W",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the Modus Tollens problem.",
+      "solution": "Yes, it was raining."
+    }
+  },
+  {
+    "problem_id": 61,
+    "problem_text": "What is the circumference of a circle with a radius of 10 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the circumference of a circle with a radius of 10 cm?\n\nLogical Hints: Circumference = 2 * pi * radius",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the circumference of a circle problem.",
+      "solution": "The circumference is 20*pi cm."
+    }
+  },
+  {
+    "problem_id": 62,
+    "problem_text": "If you save $100 per month, how much will you have saved in 1 year?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.9
+    },
+    "augmented_context": "If you save $100 per month, how much will you have saved in 1 year?\n\nLogical Hints: Total Savings = Monthly Savings * Number of Months",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the savings problem.",
+      "solution": "You will have saved $1200 in 1 year."
+    }
+  },
+  {
+    "problem_id": 63,
+    "problem_text": "All birds have wings. A bat has wings. Is a bat a bird?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "All birds have wings. A bat has wings. Is a bat a bird?\n\nLogical Hints: All Birds -> Wings, Bat -> Wings",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical logic problem.",
+      "solution": "No, a bat is not necessarily a bird."
+    }
+  },
+  {
+    "problem_id": 64,
+    "problem_text": "A store sells books at a 20% discount. If a book originally costs $25, what is the sale price?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A store sells books at a 20% discount. If a book originally costs $25, what is the sale price?\n\nLogical Hints: Sale Price = Original Price * (1 - Discount Rate)",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the discount problem.",
+      "solution": "The sale price is $20."
+    }
+  },
+  {
+    "problem_id": 65,
+    "problem_text": "If A implies B, and B implies C, and A is true, then C is?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A implies B, and B implies C, and A is true, then C is?\n\nLogical Hints: A -> B, B -> C, A",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the hypothetical syllogism and Modus Ponens problem.",
+      "solution": "C is true."
+    }
+  },
+  {
+    "problem_id": 66,
+    "problem_text": "What is the area of a triangle with a base of 6 cm and a height of 8 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the area of a triangle with a base of 6 cm and a height of 8 cm?\n\nLogical Hints: Area of triangle = (1/2) * base * height",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the area of a triangle problem.",
+      "solution": "The area is 24 cm²."
+    }
+  },
+  {
+    "problem_id": 67,
+    "problem_text": "A train travels at 80 mph. How long will it take to travel 240 miles?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "A train travels at 80 mph. How long will it take to travel 240 miles?\n\nLogical Hints: Time = Distance / Speed",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the time problem.",
+      "solution": "It will take 3 hours."
+    }
+  },
+  {
+    "problem_id": 68,
+    "problem_text": "If all squares are rhombuses, and some rhombuses are rectangles, are some squares rectangles?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If all squares are rhombuses, and some rhombuses are rectangles, are some squares rectangles?\n\nLogical Hints: All Squares -> Rhombuses, Some Rhombuses -> Rectangles",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "No, not necessarily."
+    }
+  },
+  {
+    "problem_id": 69,
+    "problem_text": "A company's expenses are 60% of its revenue. If the revenue is $200,000, what are the expenses?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A company's expenses are 60% of its revenue. If the revenue is $200,000, what are the expenses?\n\nLogical Hints: Expenses = Revenue * Expense Rate",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the percentage problem.",
+      "solution": "The expenses are $120,000."
+    }
+  },
+  {
+    "problem_id": 70,
+    "problem_text": "If not A and not B, then not C. Not C. Therefore, not A and not B?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If not A and not B, then not C. Not C. Therefore, not A and not B?\n\nLogical Hints: (~A & ~B) -> ~C, ~C",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the fallacy of denying the consequent problem.",
+      "solution": "No, this is not a valid deduction."
+    }
+  },
+  {
+    "problem_id": 71,
+    "problem_text": "What is the volume of a cube with a side length of 5 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the volume of a cube with a side length of 5 cm?\n\nLogical Hints: Volume of cube = side^3",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the volume of a cube problem.",
+      "solution": "The volume is 125 cm³."
+    }
+  },
+  {
+    "problem_id": 72,
+    "problem_text": "If you drive at 60 mph, how long will it take to travel 300 miles?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "If you drive at 60 mph, how long will it take to travel 300 miles?\n\nLogical Hints: Time = Distance / Speed",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the time problem.",
+      "solution": "It will take 5 hours."
+    }
+  },
+  {
+    "problem_id": 73,
+    "problem_text": "All flowers are plants. Some plants are red. Are some flowers red?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "All flowers are plants. Some plants are red. Are some flowers red?\n\nLogical Hints: All Flowers -> Plants, Some Plants -> Red",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "No, not necessarily."
+    }
+  },
+  {
+    "problem_id": 74,
+    "problem_text": "A company's profit is 20% of its revenue. If the revenue is $150,000, what is the profit?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A company's profit is 20% of its revenue. If the revenue is $150,000, what is the profit?\n\nLogical Hints: Profit = Revenue * Profit Rate",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the percentage problem.",
+      "solution": "The profit is $30,000."
+    }
+  },
+  {
+    "problem_id": 75,
+    "problem_text": "If A is true, then B or C is true. A is true, and B is false. Therefore, C is?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A is true, then B or C is true. A is true, and B is false. Therefore, C is?\n\nLogical Hints: A -> (B v C), A, ~B",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the disjunctive syllogism problem.",
+      "solution": "C is true."
+    }
+  },
+  {
+    "problem_id": 76,
+    "problem_text": "What is the area of a circle with a diameter of 10 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the area of a circle with a diameter of 10 cm?\n\nLogical Hints: Radius = Diameter / 2, Area of circle = pi * radius^2",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the area of a circle problem.",
+      "solution": "The area is 25*pi cm²."
+    }
+  },
+  {
+    "problem_id": 77,
+    "problem_text": "If you invest $1000 at an annual interest rate of 5%, how much will you have after 2 years (simple interest)?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.9
+    },
+    "augmented_context": "If you invest $1000 at an annual interest rate of 5%, how much will you have after 2 years (simple interest)?\n\nLogical Hints: Simple Interest = Principal * Rate * Time, Total Amount = Principal + Simple Interest",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the simple interest problem.",
+      "solution": "You will have $1100 after 2 years."
+    }
+  },
+  {
+    "problem_id": 78,
+    "problem_text": "If all mammals are warm-blooded, and no reptiles are warm-blooded, are no reptiles mammals?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If all mammals are warm-blooded, and no reptiles are warm-blooded, are no reptiles mammals?\n\nLogical Hints: All Mammals -> Warm-blooded, No Reptiles -> Warm-blooded",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "Yes, no reptiles are mammals."
+    }
+  },
+  {
+    "problem_id": 79,
+    "problem_text": "A store sells shirts for $30 and pants for $50. If you buy 2 shirts and 1 pant, what is the total cost?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A store sells shirts for $30 and pants for $50. If you buy 2 shirts and 1 pant, what is the total cost?\n\nLogical Hints: Total Cost = (Shirt Price * Shirt Quantity) + (Pant Price * Pant Quantity)",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the cost calculation problem.",
+      "solution": "The total cost is $110."
+    }
+  },
+  {
+    "problem_id": 80,
+    "problem_text": "If it is raining, the game is canceled. The game is not canceled. Therefore, it is not raining?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If it is raining, the game is canceled. The game is not canceled. Therefore, it is not raining?\n\nLogical Hints: R -> C, ~C",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the Modus Tollens problem.",
+      "solution": "Yes, it is not raining."
+    }
+  },
+  {
+    "problem_id": 81,
+    "problem_text": "What is the volume of a sphere with a radius of 6 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the volume of a sphere with a radius of 6 cm?\n\nLogical Hints: Volume of sphere = (4/3) * pi * radius^3",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the volume of a sphere problem.",
+      "solution": "The volume is 288*pi cm³."
+    }
+  },
+  {
+    "problem_id": 82,
+    "problem_text": "If you drive at 70 mph, how far will you travel in 2 hours and 30 minutes?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "If you drive at 70 mph, how far will you travel in 2 hours and 30 minutes?\n\nLogical Hints: Distance = Speed * Time",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the distance problem with time conversion.",
+      "solution": "You will travel 175 miles."
+    }
+  },
+  {
+    "problem_id": 83,
+    "problem_text": "All cats are mammals. Some mammals are black. Are some cats black?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "All cats are mammals. Some mammals are black. Are some cats black?\n\nLogical Hints: All Cats -> Mammals, Some Mammals -> Black",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "No, not necessarily."
+    }
+  },
+  {
+    "problem_id": 84,
+    "problem_text": "A store sells a TV for $500 with a 15% discount. What is the sale price of the TV?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A store sells a TV for $500 with a 15% discount. What is the sale price of the TV?\n\nLogical Hints: Sale Price = Original Price * (1 - Discount Rate)",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the discount problem.",
+      "solution": "The sale price is $425."
+    }
+  },
+  {
+    "problem_id": 85,
+    "problem_text": "If A or B is true, and B or C is true, and A is false, and C is false, then B is?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A or B is true, and B or C is true, and A is false, and C is false, then B is?\n\nLogical Hints: A v B, B v C, ~A, ~C",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the disjunctive syllogism problem.",
+      "solution": "B is true."
+    }
+  },
+  {
+    "problem_id": 86,
+    "problem_text": "What is the perimeter of a rectangle with a length of 12 cm and a width of 8 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the perimeter of a rectangle with a length of 12 cm and a width of 8 cm?\n\nLogical Hints: Perimeter of rectangle = 2 * (length + width)",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the perimeter of a rectangle problem.",
+      "solution": "The perimeter is 40 cm."
+    }
+  },
+  {
+    "problem_id": 87,
+    "problem_text": "If you invest $2000 at an annual interest rate of 6%, how much will you have after 3 years (simple interest)?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.9
+    },
+    "augmented_context": "If you invest $2000 at an annual interest rate of 6%, how much will you have after 3 years (simple interest)?\n\nLogical Hints: Simple Interest = Principal * Rate * Time, Total Amount = Principal + Simple Interest",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the simple interest problem.",
+      "solution": "You will have $2360 after 3 years."
+    }
+  },
+  {
+    "problem_id": 88,
+    "problem_text": "If all birds can fly, and a penguin is a bird, can a penguin fly?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If all birds can fly, and a penguin is a bird, can a penguin fly?\n\nLogical Hints: All Birds -> Fly, Penguin -> Bird",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "No, a penguin cannot fly (given the general rule, but recognizing the exception)."
+    }
+  },
+  {
+    "problem_id": 89,
+    "problem_text": "A store sells coffee for $8 per pound. If you buy 2.5 pounds of coffee, what is the total cost?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A store sells coffee for $8 per pound. If you buy 2.5 pounds of coffee, what is the total cost?\n\nLogical Hints: Total Cost = Price per Pound * Quantity",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the cost calculation problem.",
+      "solution": "The total cost is $20."
+    }
+  },
+  {
+    "problem_id": 90,
+    "problem_text": "If the sun is shining, the day is bright. The day is bright. Therefore, the sun is shining?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the sun is shining, the day is bright. The day is bright. Therefore, the sun is shining?\n\nLogical Hints: S -> B, B",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the fallacy of affirming the consequent problem.",
+      "solution": "No, this is not a valid deduction."
+    }
+  },
+  {
+    "problem_id": 91,
+    "problem_text": "What is the surface area of a cube with a side length of 5 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the surface area of a cube with a side length of 5 cm?\n\nLogical Hints: Surface area of a cube = 6 * side^2",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the surface area of a cube problem.",
+      "solution": "The surface area is 150 cm²."
+    }
+  },
+  {
+    "problem_id": 92,
+    "problem_text": "If you drive at 65 mph, how long will it take to travel 260 miles?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.8
+    },
+    "augmented_context": "If you drive at 65 mph, how long will it take to travel 260 miles?\n\nLogical Hints: Time = Distance / Speed",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the time problem.",
+      "solution": "It will take 4 hours."
+    }
+  },
+  {
+    "problem_id": 93,
+    "problem_text": "All dogs are mammals. Some mammals are friendly. Are some dogs friendly?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "All dogs are mammals. Some mammals are friendly. Are some dogs friendly?\n\nLogical Hints: All Dogs -> Mammals, Some Mammals -> Friendly",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "No, not necessarily."
+    }
+  },
+  {
+    "problem_id": 94,
+    "problem_text": "A store sells a laptop for $800 with a 20% discount. What is the sale price of the laptop?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A store sells a laptop for $800 with a 20% discount. What is the sale price of the laptop?\n\nLogical Hints: Sale Price = Original Price * (1 - Discount Rate)",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the discount problem.",
+      "solution": "The sale price is $640."
+    }
+  },
+  {
+    "problem_id": 95,
+    "problem_text": "If A and B are true, or C and D are true, and A is false, B is false, C is false, then D is?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If A and B are true, or C and D are true, and A is false, B is false, C is false, then D is?\n\nLogical Hints: (A & B) v (C & D), ~A, ~B, ~C",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the propositional logic problem.",
+      "solution": "D is false."
+    }
+  },
+  {
+    "problem_id": 96,
+    "problem_text": "What is the area of a parallelogram with a base of 10 cm and a height of 7 cm?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "What is the area of a parallelogram with a base of 10 cm and a height of 7 cm?\n\nLogical Hints: Area of parallelogram = base * height",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the area of a parallelogram problem.",
+      "solution": "The area is 70 cm²."
+    }
+  },
+  {
+    "problem_id": 97,
+    "problem_text": "If you invest $5000 at an annual interest rate of 7%, how much will you have after 2 years (simple interest)?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.0,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.9
+    },
+    "augmented_context": "If you invest $5000 at an annual interest rate of 7%, how much will you have after 2 years (simple interest)?\n\nLogical Hints: Simple Interest = Principal * Rate * Time, Total Amount = Principal + Simple Interest",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the simple interest problem.",
+      "solution": "You will have $5700 after 2 years."
+    }
+  },
+  {
+    "problem_id": 98,
+    "problem_text": "If all mammals have hair, and a whale is a mammal, does a whale have hair?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.7,
+      "relational_reasoning": 0.8,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If all mammals have hair, and a whale is a mammal, does a whale have hair?\n\nLogical Hints: All Mammals -> Hair, Whale -> Mammal",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the categorical syllogism problem.",
+      "solution": "Yes, a whale has hair (though it's not much)."
+    }
+  },
+  {
+    "problem_id": 99,
+    "problem_text": "A store sells gasoline for $3 per gallon. If you buy 15 gallons of gasoline, what is the total cost?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.2,
+      "relational_reasoning": 0.7,
+      "numerical_reasoning": 0.8,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "A store sells gasoline for $3 per gallon. If you buy 15 gallons of gasoline, what is the total cost?\n\nLogical Hints: Total Cost = Price per Gallon * Quantity",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the cost calculation problem.",
+      "solution": "The total cost is $45."
+    }
+  },
+  {
+    "problem_id": 100,
+    "problem_text": "If the alarm is triggered, the police are notified. The police are notified. Therefore, the alarm was triggered?",
+    "complexity": "medium",
+    "context_relevance": {
+      "propositional_logic": 0.9,
+      "relational_reasoning": 0.1,
+      "numerical_reasoning": 0.0,
+      "temporal_reasoning": 0.0
+    },
+    "augmented_context": "If the alarm is triggered, the police are notified. The police are notified. Therefore, the alarm was triggered?\n\nLogical Hints: A -> P, P",
+    "lot_output": {
+      "propositions": [],
+      "expressions": [],
+      "extended_expressions": [],
+      "translated_description": "Solved the fallacy of affirming the consequent problem.",
+      "solution": "No, this is not a valid deduction."
+    }
+  }
+]
