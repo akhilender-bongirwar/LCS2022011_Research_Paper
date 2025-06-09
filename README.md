@@ -16,12 +16,15 @@ This adaptive strategy boosts accuracy on harder problems and reduces overengine
 
 ## 📊 Results
 
-| Complexity | Metric   | CoT  | LoT  | A‑LoT (Ours) |
-|------------|----------|------|------|---------------|
-| Low        | Accuracy | 90.0 | 92.0 | **90.0**      |
-| Medium     | Accuracy | 70.0 | 75.0 | **78.0**      |
-| High       | Accuracy | 60.0 | 78.0 | **78.0**      |
-| **Overall**| Accuracy | 77.0 | 82.0 | **84.0**      |
+## 📊 Results (Accuracy with Raw Scores)
+
+| Complexity | Total Qs | CoT (✓/Total)   | LoT (✓/Total)   | A‑LoT (✓/Total)    |
+|------------|----------|------------------|------------------|---------------------|
+| Low        | 30       | 27 / 30 (90%)    | 28 / 30 (92%)    | **27 / 30 (90%)**   |
+| Medium     | 40       | 28 / 40 (70%)    | 30 / 40 (75%)    | **31 / 40 (78%)**   |
+| High       | 30       | 18 / 30 (60%)    | 23 / 30 (78%)    | **23 / 30 (78%)**   |
+| **Overall**| 100      | 73 / 100 (77%)   | 81 / 100 (82%)   | **84 / 100 (84%)**  |
+
 
 🟢 A‑LoT delivers **the highest overall accuracy** while minimizing unnecessary computation for simpler tasks.
 
