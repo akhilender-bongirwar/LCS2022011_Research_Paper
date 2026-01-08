@@ -1,6 +1,7 @@
 # 🧠 Adaptive Logic-of-Thought (A-LoT)
 
 This repository contains the implementation and evaluation of **Adaptive Logic-of-Thought (A‑LoT)**, a dynamic prompting framework designed to enhance large language model reasoning by adapting logical augmentation to task complexity.
+Link to view Research Paper - https://drive.google.com/file/d/12wodbDcxmg99o7Vs_4a8C9SsS0nTIFme/view?usp=sharing
 
 ## 🔍 Overview
 
